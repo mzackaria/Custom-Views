@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BASIC_NETWORK_EXAMPLE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-android-trivia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-dessert-pusher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-dev-bytes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-gdg-finder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-guess-it" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-mars-real-estate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-sleep-tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-sleep-tracker-with-recyclerview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-kotlin-notifications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cwa-app-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-coroutines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nd940-android-kotlin-c2-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sleeptracker_recyclerview_cours" vcs="Git" />
+  </component>
+</project>
