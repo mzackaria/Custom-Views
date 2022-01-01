@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Pet project drawing custom views for android
+Pet project for drawing custom views in Android / Kotlin
 
 - Drawing in the onDraw method
 - setting changes in view through click on view
